@@ -1,21 +1,27 @@
 # AstroWind - Free Tailwind CSS & Astro Blogging Website Template
+
 #### Preview
 
- - [Demo](https://themewagon.github.io/astrowind/)
+- [Demo](https://themewagon.github.io/astrowind/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/astrowind/)
+
+- [Download from ThemeWagon](https://themewagon.com/themes/astrowind/)
 
 ## Getting Started
 
 1. Clone Repository
+
 ```
 git clone https://github.com/themewagon/astrowind.git
 ```
+
 2. Install Dependencies
+
 ```
 npm i
 ```
+
 3. Run the development server:
 
 ```bash
@@ -28,9 +34,10 @@ pnpm dev
 bun dev
 ```
 
-## Author 
+## Author
+
 ```
-Design and code is completely written by Arthelokyo and development team. 
+Design and code is completely written by Arthelokyo and development team.
 ```
 
 ## Acknowledgements
@@ -39,6 +46,6 @@ Initially created by **Arthelokyo** and maintained by a community of [contributo
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="https://github.com/arthelokyo" target="_blank">Arthelokyo</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+- Design and Code is Copyright &copy; <a href="https://github.com/arthelokyo" target="_blank">Arthelokyo</a>
+- Licensed cover under [MIT]
+- Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
